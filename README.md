@@ -1,4 +1,4 @@
-# 2021Spring_AI_Finall_Project
+# 2021_Spring_AI_Finall_Project
 [Introduction to AI] Final Project
 
 Problem: Atari game: Boxing\
