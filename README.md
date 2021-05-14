@@ -3,4 +3,4 @@
 
 Problem: Atari game: Boxing\
 Methodology: DQN\
-Progress: 1%
+Progress: 1% ||..............................| 1kB/day
