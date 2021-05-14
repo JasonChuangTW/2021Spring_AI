@@ -2,5 +2,5 @@
 [Introduction to AI] Final Project
 
 Problem: Atari game: Boxing\
-Methodology: DQN\
+Methodology: Bootstrapped SQN, DQN\
 Progress: 1% ||..............................| 1kB/day
