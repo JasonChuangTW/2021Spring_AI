@@ -3,4 +3,4 @@
 
 Problem: Atari game: Boxing\
 Methodology: DQN, Bootstrapped DQN\
-Progress: 100% |||||||||||||||||||||||||||||||||||| 1kB/day
+Progress: 100% ||||||||||||||||||||||||||||||||||||||||||||| 1kB/day
